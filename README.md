@@ -13,6 +13,8 @@ Sebelum menjalankan aplikasi, pastikan kamu memiliki semua **dependencies** yang
 **Clone repository ini**:
    ```bash
    git clone https://github.com/RikaProjects/Klasifikasi_Gambar.git
+
+
    
 ###struktur 
 Klasifikasi_Gambar/
@@ -23,7 +25,3 @@ Klasifikasi_Gambar/
 ├── tfjs_model/               
 ├── tflite/                 # Model TensorFlow Lite (opsional)
 └── README.md               # Dokumen ini
-
-Hasil inference :
-![image](https://github.com/user-attachments/assets/8156b77d-898c-4523-92e6-9ae9a67693c6)
-
