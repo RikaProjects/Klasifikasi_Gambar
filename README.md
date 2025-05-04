@@ -2,10 +2,8 @@
 
 Proyek ini adalah aplikasi **klasifikasi gambar** menggunakan **machine learning**. Aplikasi ini bertujuan untuk mengklasifikasikan gambar ke dalam kategori tertentu dengan menggunakan model yang telah dilatih.
 
-## Fitur
-- Klasifikasi gambar hewan-hewan.
-- Dapat menghandle berbagai jenis gambar.
-- Mendukung model berbasis **TensorFlow** dan **Keras**.
+## Kelas
+- Klasifikasi hewan ('dog', 'wild', 'cat') ke dalam 3 kelas.
 
 ## Persyaratan
 
@@ -19,9 +17,9 @@ Sebelum menjalankan aplikasi, pastikan kamu memiliki semua **dependencies** yang
 ###struktur 
 Klasifikasi_Gambar/
 │
-├── klasifikasi.py          # Script utama untuk klasifikasi gambar
+├── Submission Klasifikasi Gambar.jpnyb          # Script utama untuk klasifikasi gambar
 ├── requirements.txt        # File yang berisi daftar dependencies
-├── model/                  # Folder untuk menyimpan model yang telah dilatih
-├── data/                   # Folder untuk dataset gambar
+├── saved_model/           # Folder untuk menyimpan model yang telah dilatih
+├── tfjs_model/               
 ├── tflite/                 # Model TensorFlow Lite (opsional)
 └── README.md               # Dokumen ini
