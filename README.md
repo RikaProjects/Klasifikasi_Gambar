@@ -23,3 +23,7 @@ Klasifikasi_Gambar/
 ├── tfjs_model/               
 ├── tflite/                 # Model TensorFlow Lite (opsional)
 └── README.md               # Dokumen ini
+
+Hasil inference :
+![image](https://github.com/user-attachments/assets/8156b77d-898c-4523-92e6-9ae9a67693c6)
+
